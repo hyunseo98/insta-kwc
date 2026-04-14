@@ -36,7 +36,7 @@ export const myPosts = [
     likes: 182415,
     commentsCount: 20245,
     bestCommentUser: 'liiililililil',
-    bestComment: '가슴 개크다',
+    bestComment: '맛있겠노',
     bestCommentReplyUser: 'nyanwoochan',
     bestCommentReply: '성희롱 댓글 pdf 땄습니다 법정에서 봬요 ㅇㅇ',
     timeAgo: '1주 전'
